@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="se.haparanda.ung.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="se.haparanda.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>UNGHPDA</name>
-    <description>Senaste om vad som händer i Haparanda kommun.</description>
+    <description>Senaste om vad som hÃ¤nder i Haparanda kommun.</description>
     <author email="david.jordansson@gmail.com" href="http://ung.haparanda.se">UNGHPDA</author>
 
     <preference name="phonegap-version" value="3.3.0" />
